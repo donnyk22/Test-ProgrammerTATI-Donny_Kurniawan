@@ -1,10 +1,10 @@
 # Test-ProgrammerTATI-Donny_Kurniawan
-Nama: Donny Kurniawan
-Email: donnykurniawan2206@gmail.com
-HP: 083846004176
+Nama: Donny Kurniawan<br>
+Email: donnykurniawan2206@gmail.com<br>
+HP: 083846004176<br>
 
 Soal 1
-- Soal no 1 berada di folder project "soal1_2"
+- Soal no 1 berada di folder project "soal_1_2"
 - Ganti konfigurasi DB_CONNECTION dll jika diperlukan pada folder .env
 - Buat DB yang sesuai dengan konfigurasi. Jika mengacu dengan konfigurasi yang saya gunakan, maka buat DB baru bernama "daily_log"
 - run "php artisan migrate"
@@ -25,7 +25,7 @@ Soal 2
 - Maka bisa terlihat bawha tampilan sudah sesuai dengan petunjuk di soal
 
 Soal 3
-- Soal no 1 berada di folder project "soal3_4"
+- Soal no 1 berada di folder project "soal_3"
 - Ganti konfigurasi DB_CONNECTION dll jika diperlukan pada folder .env
 - Buat DB yang sesuai dengan konfigurasi. Jika mengacu dengan konfigurasi yang saya gunakan, maka buat DB baru bernama "province"
 - run "php artisan migrate"
