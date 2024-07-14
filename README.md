@@ -31,7 +31,6 @@ Soal 3
 - run "php artisan migrate"
 - run "php artisan db:seed"
 - run "php artisan serve" untuk start aplikasi
-- Buka: http://127.0.0.1:8000
 - Buka Postman, dan buka [GET] http://127.0.0.1:8000/api/provinsi. Maka akan tampil semua data provinsi
 - Buka [GET] http://127.0.0.1:8000/api/provinsi/11. Maka akan tampil detil provinsi Aceh
 - Buka [POST] http://127.0.0.1:8000/api/provinsi?name=Data dummy&lat=4.695135&lng=96.7493993&google_place_id=ChIJvcR8UN-bOTARYMogsoCdAwE. Maka akan menambahkan data provinsi baru bernama "Data dummy"
