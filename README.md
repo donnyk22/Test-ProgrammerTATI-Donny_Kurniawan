@@ -11,12 +11,12 @@ Soal 1
 - run "php artisan db:seed"
 - run "php artisan serve" untuk start aplikasi
 - Buka: http://127.0.0.1:8000 di browser
-- Login di masing-masing user dengan username berikut (password: "password" di semua akun):
-kepaladinas@gmail.com
-kepalabidang1@gmail.com
-kepalabidang2@gmail.com
-staff1@gmail.com
-staff2@gmail.com
+- Login di masing-masing user dengan username berikut (password: "password" di semua akun):<br>
+kepaladinas@gmail.com<br>
+kepalabidang1@gmail.com<br>
+kepalabidang2@gmail.com<br>
+staff1@gmail.com<br>
+staff2@gmail.com<br>
 
 Soal 2
 - Lakukan langkah awal seperti di soal 1
@@ -33,10 +33,10 @@ Soal 3
 - run "php artisan serve" untuk start aplikasi
 - Buka: http://127.0.0.1:8000
 - Buka Postman, dan buka [GET] http://127.0.0.1:8000/api/provinsi. Maka akan tampil semua data provinsi
-- Buka [GET] http://127.0.0.1:8000/api/provinsi/11. Maka akan tampil detil provinsi aceh
+- Buka [GET] http://127.0.0.1:8000/api/provinsi/11. Maka akan tampil detil provinsi Aceh
 - Buka [POST] http://127.0.0.1:8000/api/provinsi?name=Data dummy&lat=4.695135&lng=96.7493993&google_place_id=ChIJvcR8UN-bOTARYMogsoCdAwE. Maka akan menambahkan data provinsi baru bernama "Data dummy"
-- Buka [PUT] http://127.0.0.1:8000/api/provinsi/96?name=Data dummy edit. Maka data sebelumnya akan terubah (sesuaikan ID nya di URL)
-- Buka [DELETE] http://127.0.0.1:8000/api/provinsi/96. Maka data akan terhapus (sesuaikan ID nya di URL)
+- Buka [PUT] http://127.0.0.1:8000/api/provinsi/11?name=Aceh edit. Maka data Aceh akan terubah
+- Buka [DELETE] http://127.0.0.1:8000/api/provinsi/11. Maka data Aceh akan terhapus
 
 Soal 4
 - Soal no 4 berada di luar folder dengan nama file "soal_4.php"
